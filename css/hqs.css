@@ -1,0 +1,68 @@
+.panel-hqs {
+
+    padding-top: 48px;
+    background-color: black;
+    text-align: center;
+
+}
+
+.panel-hqs .about-hq{
+    text-align: center;
+}
+
+.about-hqs .title{
+
+    color: white;
+    font-size: 40px;
+    text-transform: uppercase;
+    margin-bottom: 16px;
+
+}
+
+.about-hqs .subtitle{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 16px;
+}
+
+
+
+
+.panel-hqs .hqs{
+    text-align: center;
+}
+
+
+
+.panel-hqs .hq{
+
+    background-color: white;
+    display: inline-block;
+    margin: 0%  16px 37px;
+    padding: 18px;
+    border-radius: 10%;
+    width: 220px;
+    vertical-align: top;
+}
+
+/*.panel-hqs .speaker-image{
+    border-radius: 10% ;
+
+} */
+
+.panel-hqs .hq-name{
+   margin-top: 10px;
+    
+}
+
+.panel-hqs .hq-bio{
+   
+    backgrougd: #f56f49;
+    text-align: center; 
+    margin-top: 16px; /*deixa em negrito*/
+}
+/*.panel-hqs .speaker-speach{
+   margin-top: 16px;
+
+    
+}*/

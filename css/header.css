@@ -1,6 +1,6 @@
 .header{
 
-    background: url(../img/destaque.jpeg) no-repeat;
+    background: url(../img/portraitmain.jpg) no-repeat;
     background-size: cover; /*preenche a imagem toda*/
     padding-top: 35px;
 
@@ -36,7 +36,7 @@
 
 .header .main-menu .menu-item a:hover{
 
-    background: #469890;
+    background: #8a181a;
     
 }
 
@@ -63,23 +63,8 @@
 
 .header .jumbotron .subtitle{
     font-size: 2.6em ;
-    color: #64FF64; 
+    color: rgba(255, 0, 0, 0.466); 
     margin-top: 10px;
-
-}
-
-
-.header .jumbotron .button {
-
-    display: inline-block;
-    color: white;
-    text-decoration:none;
-    font-size:18px; 
-    background: #469890;
-    border-radius: 0px 20px;
-    padding: 25px 50px;
-
-
 
 }
 
@@ -90,6 +75,8 @@
 
 @media(min-width: 650px){
 
+ 
+    
     .header .jumbotron {
         font-size:28px;
     }
